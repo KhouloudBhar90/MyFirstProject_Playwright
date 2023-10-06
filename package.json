@@ -1,0 +1,14 @@
+{
+  "name": "test-playwright",
+  "version": "1.0.0",
+  "description": "My First Project Playwright",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Khouloud",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.38.1",
+    "@types/node": "^20.6.5"
+  }
+}
